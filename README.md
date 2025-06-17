@@ -2,7 +2,7 @@
 
 This section is maintained manually.
 
-- The rest of this repo is maintained by "vibe coding" the Cursor IDE
+- The rest of this repo is maintained by "vibe coding" in the Cursor IDE
 - Based on this intial model:
 
 ![](./model.svg)
