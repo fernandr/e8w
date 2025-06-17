@@ -1,18 +1,16 @@
 <h1>Vibe coding on Excalidraw (e8w)</h1>
 
-Only this section is maintained manually.
+This section is maintained manually.
 
-The rest of this repo is maintained by "vibe coding" in the Cursor IDE.
+- The rest of this repo is maintained by "vibe coding" the Cursor IDE
 
-Based on this e8w model:
+Vibe coding, based on this intial model:
 
 ![](./model.svg)
 
-Resulting in this webapp:
+Resulting in this webapp (after some iterations):
 
 ![](./webapp.png)
-
-As of here ... vibe-coded !
 
 # Person Web App (Flask + Vue)
 
