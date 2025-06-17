@@ -9,7 +9,15 @@ This section is maintained manually.
 
 - Resulting in this webapp (after some iterations):
 
-![](./webapp.png)
+![](./webapp-home.png)
+
+![](./webapp-list1.png)
+
+![](./webapp-add.png)
+
+![](./webapp-add-ok.png)
+
+![](./webapp-list2.png)
 
 # Person Web App (Flask + Vue)
 
