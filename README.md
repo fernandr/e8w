@@ -3,12 +3,11 @@
 This section is maintained manually.
 
 - The rest of this repo is maintained by "vibe coding" the Cursor IDE
-
-Vibe coding, based on this intial model:
+- Based on this intial model:
 
 ![](./model.svg)
 
-Resulting in this webapp (after some iterations):
+- Resulting in this webapp (after some iterations):
 
 ![](./webapp.png)
 
