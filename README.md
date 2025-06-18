@@ -1,18 +1,18 @@
-Develop a basic CRUD application:
+Develop a basic CRUD application.
 
-- Using a draft Excalidraw model as a starting point
+- Using a simple Excalidraw as a starting point (draft)
 - Applying an interactive chat in Cursor IDE ("vibe coding")
-- Safeguarding intermediate milestones in the Git repo
+- Safeguarding intermediate milestones in this Git repo
 
-Only this section and the below images are manually.
+This section and the below images are edited manually.
 
-- The rest of this repo was edited by the Cursor IDE's LLMs
+- The rest of this repo was edited by Cursor
 
-This draft model has been taken as a starting point:
+This model was drafted as a starting point:
 
 ![](./model.svg)
 
-Resulting in this webapp (after a couple of small iterations):
+This webapp was the first result after a couple of small iterations:
 
 ![](./webapp-home.png)
 
