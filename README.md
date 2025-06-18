@@ -1,4 +1,4 @@
-<h1>Vibe coding on Excalidraw (e8w)</h1>
+<h1>Draft vibe coding on Excalidraw (e8w)</h1>
 
 This section is maintained manually.
 
