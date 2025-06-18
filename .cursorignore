@@ -1,0 +1,45 @@
+# Ignore version control system files
+.git
+.gitignore
+
+# Node.js dependencies
+node_modules/
+
+# Python virtual environments
+venv/
+.env/
+__pycache__/
+
+# Build artifacts
+dist/
+build/
+*.log
+*.tmp
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE/editor-specific files
+.vscode/
+.idea/
+
+# Environment and secrets
+.env
+*.env
+*.key
+*.pem
+secrets/
+config/local.yml
+
+# Test snapshots or coverage
+coverage/
+*.lcov
+.nyc_output/
+*.snap
+
+# Misc
+*.swp
+*.bak
+*.old
+
