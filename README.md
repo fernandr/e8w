@@ -1,13 +1,18 @@
-<h1>Vibe coding on Excalidraw (e8w) - draft</h1>
+Develop a basic CRUD application:
 
-This section is maintained manually.
+- Using a draft Excalidraw model as a starting point
+- Applying an interactive chat in Cursor IDE ("vibe coding")
+- Safeguarding intermediate milestones in the Git repo
 
-- The rest of this repo is maintained by "vibe coding" in the Cursor IDE
-- Based on this intial model:
+Only this section and the below images are manually.
+
+- The rest of this repo was edited by the Cursor IDE's LLMs
+
+This draft model has been taken as a starting point:
 
 ![](./model.svg)
 
-- Resulting in this webapp (after some iterations):
+Resulting in this webapp (after a couple of small iterations):
 
 ![](./webapp-home.png)
 
