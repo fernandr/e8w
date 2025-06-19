@@ -1,7 +1,7 @@
 Develop a basic CRUD application.
 
 - Using a simple Excalidraw as a starting point (draft)
-- Applying an interactive chat in Cursor IDE ("vibe coding")
+- Prompting iteratively in Cursor IDE ("vibe coding")
 - Safeguarding intermediate milestones in this Git repo
 
 This section and the below images are edited manually.
